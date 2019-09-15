@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stringExe.dir/main.cpp.o CMakeFiles/stringExe.dir/MyString.cpp.o CMakeFiles/stringExe.dir/stringFunctions.cpp.o CMakeFiles/stringExe.dir/tests.cpp.o  -o stringExe 

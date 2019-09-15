@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hadasswittow/CLionProjects/stringExe/MyString.cpp
+MyString.h
+/home/hadasswittow/CLionProjects/stringExe/MyString.h
+
+/home/hadasswittow/CLionProjects/stringExe/MyString.h
+iostream
+-
+cstddef
+-
+stringFunctions.h
+/home/hadasswittow/CLionProjects/stringExe/stringFunctions.h
+
+/home/hadasswittow/CLionProjects/stringExe/stringFunctions.h
+cstddef
+-
+

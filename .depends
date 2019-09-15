@@ -1,0 +1,2 @@
+stringFunctions.o: stringFunctions.cpp stringFunctions.h
+main.o: main.cpp
