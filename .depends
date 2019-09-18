@@ -1,2 +1,3 @@
 stringFunctions.o: stringFunctions.cpp stringFunctions.h
-main.o: main.cpp
+tests.o: tests.cpp tests.h MyString.h stringFunctions.h
+main.o: main.cpp tests.h MyString.h stringFunctions.h

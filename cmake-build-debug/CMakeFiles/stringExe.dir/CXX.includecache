@@ -18,7 +18,21 @@ cstddef
 stringFunctions.h
 /home/hadasswittow/CLionProjects/stringExe/stringFunctions.h
 
+/home/hadasswittow/CLionProjects/stringExe/main.cpp
+iostream
+-
+tests.h
+/home/hadasswittow/CLionProjects/stringExe/tests.h
+
 /home/hadasswittow/CLionProjects/stringExe/stringFunctions.h
 cstddef
 -
+
+/home/hadasswittow/CLionProjects/stringExe/tests.cpp
+tests.h
+/home/hadasswittow/CLionProjects/stringExe/tests.h
+
+/home/hadasswittow/CLionProjects/stringExe/tests.h
+MyString.h
+/home/hadasswittow/CLionProjects/stringExe/MyString.h
 
